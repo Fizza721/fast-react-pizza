@@ -4,11 +4,11 @@ A modern pizza ordering application built with React.js. Users can browse the me
 
 ### 🌐 Live Demo
 
-[View Live Website](YOUR_NETLIFY_LINK)
+[View Live Website](https://26pizza.netlify.app/)
 
 ### 📂 GitHub Repository
 
-[View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
+[View Source Code](https://github.com/Fizza721/fast-react-pizza)
 
 ### 🛠️ Technologies Used
 
